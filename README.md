@@ -1,0 +1,1 @@
+# Magelang Class
