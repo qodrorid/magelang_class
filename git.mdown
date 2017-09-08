@@ -1,0 +1,37 @@
+#git
+## instalasi
+1. git init 
+2. git remote add origin https://github.com/qodrorid/magelang_class.git
+3. git pull origin master "tarik file dari master git"
+4. git pull origin development
+
+
+git add filenya
+git status      :cek file
+git commit
+
+##push
+git push -u origin/file_masternya *origin/development*
+
+####tambahan
+2 file di git
+-master                 : file siap
+-development            : file yang diedit dev
+git branch             : cek kita ada dimana
+git checkout filenya   : pindah file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
