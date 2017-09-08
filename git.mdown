@@ -1,4 +1,4 @@
-#git
+# git
 ## instalasi
 1. git init 
 2. git remote add origin https://github.com/qodrorid/magelang_class.git
@@ -10,10 +10,10 @@ git add filenya
 git status      :cek file
 git commit
 
-##push
+## push
 git push -u origin/file_masternya *origin/development*
 
-####tambahan
+#### tambahan
 2 file di git
 -master                 : file siap
 -development            : file yang diedit dev
