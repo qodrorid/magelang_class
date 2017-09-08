@@ -1,3 +1,3 @@
 # Magelang Class
 
-Ini branch `development`.
+Repo ini merupakan dokumentasi pembelajaran di QODR Magelang.
