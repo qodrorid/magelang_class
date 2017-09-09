@@ -1,0 +1,42 @@
+#UPLOAD FILE KE REPO ORGANIZATION **DARI TERMINAL**
+##_LANGKAH-LANKGAHNYA :_
+
+1.Membuat file REPOSITORIES di localhost\
+>.git clone (link repositories)\
+
+2.Masuk kedalam file yang baru saja kita buat\
+>cd (nama file git clone)\
+
+3.Pindahkan file yang mau kita upload kedalam file REPO GIT\
+
+4.Tambahkan file yang sudah kita masukkan, kedalam GIT\
+>git add .\
+
+5.Lihat setatus GITnya\
+> git status\
+
+6.upload file tersebut dengan\
+> git commit -m "(Description file)"\
+
+7.Remote kembali filenya\
+> git remote add origin\
+
+8.Pilih branch untuk filenya di situs GIT\
+> git checkout (nama branch)\
+
+9.cek kembali file updatenya\
+>git pull add origin (nama branch yang dipilih)\
+
+10.upload filenya kedalam branch tersebut\
+> git push add origin (nama branch yang dipilih)\
+
+11.Login ke akun GIT dengan user dan password masing-masing
+
+_NOTE :_
+
+*Lebih mudah memakai _visual studio code_ untuk upload karen sudah kompitable dengan GIT
+*
+
+**_SELESAI SUDAH_** 
+
+
