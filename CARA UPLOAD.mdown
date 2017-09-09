@@ -7,22 +7,22 @@ _LANGKAH-LANKGAHNYA :_
 2.Masuk kedalam file yang baru saja kita buat\
 >cd (nama file git clone)\
 
-3.Pindahkan file yang mau kita upload kedalam file REPO GIT\
+3.Pilih branch untuk file yang mau diupload di situs GIT\
+> git checkout (nama branch)\
 
-4.Tambahkan file yang sudah kita masukkan, kedalam GIT\
+4.Pindahkan file yang mau kita upload kedalam file REPO GIT\
+
+5.Tambahkan file yang sudah kita masukkan, kedalam GIT\
 >git add .\
 
-5.Lihat setatus GITnya\
+6.Lihat setatus GITnya\
 > git status\
 
-6.upload file tersebut dengan\
+7.upload file tersebut dengan\
 > git commit -m "(Description file)"\
 
-7.Remote kembali filenya\
+8.Remote kembali filenya\
 > git remote add origin\
-
-8.Pilih branch untuk filenya di situs GIT\
-> git checkout (nama branch)\
 
 9.cek kembali file updatenya\
 >git pull add origin (nama branch yang dipilih)\
@@ -35,7 +35,7 @@ _LANGKAH-LANKGAHNYA :_
 _NOTE :_
 
 *Lebih mudah memakai _visual studio code_ untuk upload karen sudah kompatible dengan GIT
-*
+*Kalau msih kurang benar monggo di benerin. 
 
 **_SELESAI SUDAH_** 
 
