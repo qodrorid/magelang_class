@@ -34,7 +34,7 @@ _LANGKAH-LANKGAHNYA :_
 
 _NOTE :_
 
-*Lebih mudah memakai _visual studio code_ untuk upload karen sudah kompatible dengan GIT
+*Lebih mudah memakai _visual studio code_ untuk upload karen sudah kompatible dengan GIT\
 *Kalau msih kurang benar **monggo** di benerin. 
 
 **_SELESAI SUDAH_** 
