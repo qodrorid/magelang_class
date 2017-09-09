@@ -10,7 +10,7 @@ _LANGKAH-LANKGAHNYA :_
 3.Pilih branch untuk file yang mau diupload di situs GIT
 > git checkout (nama branch)
 
-4.Pindahkan file yang mau kita upload kedalam file REPO GIT\
+4.Pindahkan file yang mau kita upload kedalam file REPO GIT
 
 5.Tambahkan file yang sudah kita masukkan, kedalam GIT
 >git add .
