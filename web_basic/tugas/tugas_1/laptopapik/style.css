@@ -1,0 +1,60 @@
+*{
+font-family: 'Roboto', sans-serif;
+}
+body{
+	background-image: url(pattern.png);
+	background-repeat: 
+}
+
+body .emas{
+	color: gold;
+}
+
+body .ungu{
+	color: rgb(176,77,161);
+}
+
+body .merah{
+	color: #F42323;
+}
+.border {
+	width: 50%;
+	height: auto;
+	border: 2px solid red;
+}
+
+table {
+	width: 50%;
+}
+table .tengah{
+	text-align: center;
+}
+table .kanan{
+	text-align: right;
+}
+
+table, th, td {
+border: 1px solid black;
+}
+
+h1 span,
+p span{
+	color: red;
+}
+
+.kotak {
+	width: 50%;
+	height: auto;
+	border: 2px solid red;
+	padding: 20px;
+	background-color: #E9E9E9;
+}
+.kotak .kiri {
+	text-align: left;
+}
+.kotak .kanan{
+	text-align: right;
+}
+.kotak p {
+	text-align: center;
+}
