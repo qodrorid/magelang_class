@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Oswald:500&subset=cyrillic');
+
+body {
+    color: #333;
+    background: #eaeaea;
+    font-size: 5em;
+    font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+#contoh_id {
+    border: 1px solid red;
+}
+.contoh_class {
+    margin-top: 20px;
+    padding: 40px;
+    border: 1px solid blue;
+}
