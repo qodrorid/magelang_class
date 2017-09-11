@@ -7,7 +7,7 @@
 </head>
 <body>
 	<h1>HyperText Markup Language</h1>
-	<a href="https://google.com" target="_blank"><img src="google.png"></a>
+	<a href="https://google.com" target="_blank"><img src="https://245.tech/wp-content/uploads/2017/07/Google_-G-_Logo.svg_.png	"></a>
 
 	<h1>Efek Teks</h1>
 	<p>Ini teks <b>tebal</b> tapi yang ini <strong>important,</strong> nah ini teks <i>miring</i> tapi yang ini <em>emphasize,</em> bisa juga kasih <mark>tanda</mark>,tulisan <sub>kecil,</sub> bisa <del>nyoret</del> juga, yang terakhir bisa nulis rumus X<sup>2</sup> = a+b dan juga R <sub>a</sub> adalah Radium.
@@ -23,7 +23,7 @@
 	<br>
 
 	<!-- ini komentar tidak terlihat -->
-	<img src="poi.jpg" width="500px" height="500px" alt="unsplash.com">
+	<img src="https://images.unsplash.com/photo-1465070845512-2b2dbdc6df66?dpr=1&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=" width="500px" height="500px" alt="unsplash.com">
 	
 	<br>
 	<table>
