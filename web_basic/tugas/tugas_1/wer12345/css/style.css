@@ -1,0 +1,137 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Roboto;
+	background-image: url("../images/dark.png");
+	background-repeat: repeat;
+}
+
+.container {
+	margin: auto;
+	margin-top: 60px;
+	padding: 50px;
+	width: 800px;
+	height: 100%;
+	background-color: rgb(255,255,255);
+	text-align: center;
+}
+
+#emas {
+	color: gold;
+}
+
+#ungu {
+	color: rgb(128, 0, 128);
+}
+
+#merah {
+	color: #ff0000;
+}
+
+#unsplash {
+	margin: 20px 0;
+	width: 500px;
+	height: 500px;
+}
+
+table {
+	margin: auto;
+	margin-bottom: 30px;
+	border: 1px solid #000;
+}
+
+table #no {
+	padding: 10px;
+}
+
+#title{
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 10px;
+	border-bottom: 2px solid #000;
+}
+
+#daftar {
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+#justify {
+	text-align: justify;
+}
+
+#left {
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+#center {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+#right {
+	text-align: right;
+	margin-bottom: 10px;
+}
+
+th {
+	padding: 0 50px;
+	height: 20px;
+}
+
+#nama {
+	padding: 3px;
+	text-align: left;
+}
+
+ul {
+	text-align: left;
+}
+
+#list {
+	margin-left: 16px;
+}
+
+ol {
+	text-align: left;
+}
+
+#letter {
+	margin-left: 30px;
+	margin-bottom: 20px;
+	list-style-type: lower-alpha;
+}
+
+#roman {
+	margin-bottom: 20px;
+	margin-left: 30px;
+	list-style-type: lower-roman;
+}
+
+h1 {
+	text-align: left;
+	margin-bottom: 20px;
+}
+
+iframe {
+	height: 300px;
+	width: 100%;
+}
+
+#kotak {
+	list-style-type: square;
+}
+
+.lorem {
+	margin: auto;
+	margin-bottom: 40px;
+	padding: 50px 30px;
+	width: 500px;
+	height: 300px;
+	border: 3px solid red;
+	background-color: rgb(189, 195, 199);
+}
