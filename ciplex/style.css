@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*{
+  font-family: 'Roboto', sans-serif;
+}
+body{
+  background: url(http://www.free-patterns.info/wp-content/uploads/2013/01/blue-triangles-ver-1.jpg);
+}
+.rtengah {
+  text-align: center;
+}
+.no{
+  text-align: center;
+}
+.kanan{
+  text-align: right;
+}
+.tg{
+  text-align: center;
+}
+.sample{
+  background: #eeeeee;
+  border: 5px solid red;
+  width: 620px;
+  height: 270px;
+  padding: 10px;
+}
+.co{
+  color: red;
+}
+.do{
+  color: rgb(190, 77, 161);
+}
+.ro{
+  color: gold;
+}
+.pt{
+  text-align: justify;
+}
+.ten{
+  text-align: center;
+}
+.tf{
+  text-align: left;
+
+}
+.sh{
+  text-align: left;
+}
+.kek{
+  float: right;
+}
