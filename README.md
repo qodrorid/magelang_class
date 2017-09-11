@@ -1,7 +1,8 @@
 # Magelang Class
-
+ 
 Repo ini merupakan dokumentasi pembelajaran di QODR Magelang.
-
+ 
+ 
 **LANGKAH-LANGKAH MENGGUNAKAN REPO INI:**
 
 1. Duplikat repository dilokal
@@ -21,19 +22,16 @@ Repo ini merupakan dokumentasi pembelajaran di QODR Magelang.
 6. Lihat status GIT
    > git status
 
-7. Bersi pesan atau keterangan dari file yang ditambah
+7. Isikan pesan atau keterangan dari file yang ditambah
    > git commit -m "(pesan atau keterangan)"
 
-8. Remote kembali filenya
-   > git remote add origin
-
-9. Cek kembali file terupdate dari git
+8. Cek kembali file terupdate dari git
    > git pull origin development
 
-10. Upload file kedalam branch yang dipilih
+9. Upload file kedalam branch yang dipilih
     > git push -u origin development
 
-11. Login ke akun git dengan user dan password masing-masing
+10. Login ke akun git dengan user dan password masing-masing
 
 
 **Catatan :**
