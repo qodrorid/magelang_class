@@ -34,9 +34,10 @@
 
 13. Ubah font halaman menjadi `Roboto` dari google web font
 
-14. Semua _style css_ diatas ditaruh satu file `style.css`
+14. Semua _style css_ diatas ditaruh disatu file `style.css`
 
 
 **Catatan:**
-
-Tugas dikumpul saat pertemuan selanjutnya tanggal 12 September 2017.
+- Tugas yang sudah selesai langsung disetorkan untuk dicek
+- Tugas dikumpul maksimal saat pertemuan selanjutnya tanggal 12 September 2017
+- Tugas yang sudah dicek, diupload difolder tugas_1 dengan nama folder berupa nickname github
