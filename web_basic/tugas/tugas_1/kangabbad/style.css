@@ -1,0 +1,52 @@
+/*---------- Style ----------*/
+body{
+    background: url("http://www.free-patterns.info/wp-content/uploads/2013/01/warn-down-wall.jpg") 0px 0px repeat;
+    font-family: 'Roboto', sans-serif;
+}
+.link{
+    width: 200px;
+    height: 100px;
+}
+.unsplash{
+    width: 500px;
+    height: 500px;
+}
+.emas{
+    color: gold;
+}
+.ungu{
+    color: rgb(100,0,100);
+}
+.merah{
+    color: #ff0000;
+}
+tr:nth-child(1n){
+    text-align: center;
+}
+
+.ul1{
+    list-style-type: square;
+}
+
+.ul2{
+    list-style-type: circle;
+}
+
+.sample{
+    color: #ff0000;
+}
+div{
+    width: 500px;
+    background-color: #eeeeee;
+    border: 5px solid #ff0000;
+    padding: 15px;
+}
+.p1{
+    text-align: justify;
+}
+.p2{
+    text-align: center;
+}
+.p3{
+    text-align: right;
+}
