@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body {
+    font-family: 'Roboto', sans-serif;
+    background: url(http://www.free-patterns.info/wp-content/uploads/2015/04/orange-table-cloth-v21315.png) repeat 0 0;
+}
+
+#gold {
+    color: gold;
+}
+
+#rgb {
+    color: rgb(100, 0, 100)
+}
+
+#hex {
+    color: #FF0000;
+}
+
+
+/**/
+
+table,
+th,
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.nomor {
+    width: 60px;
+}
+
+.nama {
+    width: 35%;
+}
+
+.bidang {
+    width: 40%;
+}
+
+.tanggal {
+    width: 150px;
+}
+
+
+/**/
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+
+/**/
+
+#kotak {
+    border: 6px solid red;
+    width: 40%;
+    padding: 2%;
+    background-color: #EEEEEE;
+    margin-bottom: 10px;
+}
+
+.paragrafsatu {
+    text-align: left;
+}
+
+.paragrafdua {
+    text-align: center;
+}
+
+.paragraftiga {
+    text-align: right;
+}
