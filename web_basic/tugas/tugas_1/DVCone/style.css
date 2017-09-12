@@ -1,0 +1,35 @@
+
+/* no.14 */
+.warna1 {
+	 color:gold;
+}
+.warna2 {
+	color:rgb(91, 0, 255); 
+}
+.warna3 {
+	color: #ff0000;
+}
+
+.poi {
+    padding: 2em;
+    margin: 2em;
+    border: 5px solid red;
+    background-color: #D3D3D3;
+    width: 550px;
+    
+}
+/* no.12 */
+body {
+    background: url(http://www.free-patterns.info/wp-content/uploads/2015/08/yellow-mixed-plusses-grid-v22528.png);
+/* no.13 */
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+table,th, tr,td {
+    border: 1px solid black;
+}
+
+#imgeA {
+   
+}
