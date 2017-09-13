@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Pertemuan 5</title>
+</head>
+<body>
+    <h1>Pertemuan 5 - Form</h1>
+
+    <form action="target.php" method="post">
+        <div>
+            <label for="user">Username: </label>
+            <input type="text" name="user" id="user" value="andy" minlength="3" maxlength="10" required>
+        </div>
+        <div>
+            <label for="email">Email: </label>
+            <input type="email" id="email" name="email" required autofocus>
+        </div>
+        <div>
+            <label for="pass">Password: </label>
+            <input type="password" name="pass" id="pass" placeholder="isikan password" required>
+        </div>
+        <div>
+            <label for="angka">Angka doank:</label>
+            <input type="number" id="angka" value="1" min="1" max="10">
+        </div>
+        <div>
+            <label for="tanggal">Tanggal doank:</label>
+            <input type="date" id="tanggal">
+        </div>        
+        <div>
+            <label for="jk_l">Jenis Kelamin: </label>
+            <input type="radio" name="jenis_kelamin" id="jk_l" value="L"> Laki-laki
+            <input type="radio" name="jenis_kelamin" id="jk_p" value="P"> Perempuan
+        </div>
+        <div>
+            <label for="hobi">Hobi: </label>
+            <input type="checkbox" name="hobi" id="" value="mancing"> Mancing
+            <input type="checkbox" name="hobi" id="" value="ngoding"> Ngoding
+            <input type="checkbox" name="hobi" id="" value="tidur"> Tidur
+        </div>
+        <div>
+            <label for="jurusan">Jurusan: </label>
+            <select name="jurusan" id="">
+                <option value="">pilih jurusan:</option>
+                <option value="backend">backend</option>
+                <option value="frontend">frontend</option>
+                <option value="design">design</option>
+                <option value="fullstack">fullstack</option>
+            </select>
+        </div>
+        <div>
+            <label for="alamat">Alamat: </label>
+            <textarea name="alamat" id="alamat" cols="20" rows="4"></textarea>
+        </div>
+        <div>
+            <label for="foto">Upload foto: </label>
+            <input type="file" name="foto" id="foto">
+        </div>        
+        <div>
+            <input type="reset" value="Reset">
+            <input type="submit" value="Simpan">
+        </div>
+    </form>
+</body>
+</html>
