@@ -1,0 +1,47 @@
+/**
+ * Kelas Web Pertemuan 7
+ *
+ * by @andynur
+ */
+
+body {
+    background: url("img/pattern.png") no-repeat center top;
+}
+
+h1 {
+    color: red;
+    font-size: 20px;
+}
+
+.text-grey {
+    color: grey;
+}
+
+p.border {
+    border-bottom: 2px solid red;
+}
+
+#box {
+    font-size: 15px;
+    color: gold;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: #eaeaea;
+    padding: 10px;
+}
+
+.box-custom {
+    margin: 20px 5px 40px 0;
+    height: 100px;
+    outline: 1px solid red;
+}
+
+.text-effect {
+    text-align: right;
+    text-transform: uppercase;
+    text-indent: 5px;
+    letter-spacing: 10px;
+    line-height: 15px;
+    text-shadow: 0px 5px 5px #333;   
+    font-family: 'Roboto', sans-serif;
+}
