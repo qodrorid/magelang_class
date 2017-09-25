@@ -2,7 +2,7 @@
 
 1. Buat fungsi dengan nama `pesan()`, ketika dipanggil menampilkan pesan popup browser dengan isi __"Tugas 4 - Javascript Dasar"__
 
-2. Tampilkan di `console` angka **2048** yang merupakan hasil dari berbagai macam operator (+, -, *, /) menggunakan variabel x, y dan z.
+2. Tampilkan di `console` angka **2048** yang merupakan hasil dari berbagai macam operator (+, -, *, /) dengan menggunakan variabel x, y dan z.
     > contoh: hasil = x + y - z * 10 / 2; // muncul angka 200 (misalnya)
 
 3. Buat variabel-variabel tentang profil murid dan ditampilkan di `console` dalam satu string panjang.
@@ -10,7 +10,7 @@
 
 4. Buat fungsi untuk menghitung luas lingkaran, gunakan fungsi `Math` dengan memanggil variabel dari `global scope` (diluar fungsi tsb) lalu buat variabel didalam fungsi untuk menampilkan hasilnya (di-return)
 
-5. Buat **object** dengan nama __laptop__ yang memiliki berbagai dari 5 property lalu tampilkan salah satu property-nya di `console`
+5. Buat **object** dengan nama __laptop__ yang memiliki lebih dari 5 property lalu tampilkan salah satu property-nya di `console`
 
 6. Buat variabel `qodr` dengan isi **Quality Muslim Coder**, lalu ganti kata __Muslim__ dengan __Musilimah__, lalu tampilkan hanya kata __Muslimah Coder__ dengan huruf BESAR (semua) di-join dengan kata Ngimpi.
     > contoh hasil: MUSLIMAH CODER NGIMPI
@@ -29,10 +29,10 @@
 
 12. Setiap poin-poin diatas, beri komentar penjelasan diatasnya.
     > contoh: `// soal 1 -  menampilkan pesan popup`
-asd
+
 
 ## CATATAN
 
 - Usahakan jangan cari jawaban di google, tapi di w3schools aja, karna semua sudah dibahas saat dikelas
 - Mulai dikerjakan malam ini - besok, semaksimal mungkin, yang sudah langsung disetorkan
-- Yang sudah dicek, push tugas nya ke github magelang_class di folder tugas_3
+- Yang sudah dicek, `push` tugas nya ke github magelang_class di folder tugas_3
