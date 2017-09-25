@@ -35,4 +35,4 @@
 
 - Usahakan jangan cari jawaban di google, tapi di w3schools aja, karna semua sudah dibahas saat dikelas
 - Mulai dikerjakan malam ini - besok, semaksimal mungkin, yang sudah langsung disetorkan
-- Yang sudah dicek, `push` tugas nya ke github magelang_class di folder tugas_3
+- Yang sudah dicek, `push` tugas nya ke github **magelang_class** di folder *tugas_4*
