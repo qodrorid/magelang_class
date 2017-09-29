@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Belajar AJAX Dasar</title>
+</head>
+<body>
+    <h1>Belajar AJAX Dasar</h1>
+    <p id="demo"></p>
+
+    <script>
+        // buat semua variabel diawal
+        var paramObject, paramJson, request, response, output = "";
+
+        // buat object untuk parameter
+        paramObject = {
+            table: "santri",
+            limit: 10
+        };
+        // konversi paramObject menjadi format JSON
+        paramJson = JSON.stringify(paramObject);
+
+        // buat request ajax di variabel request
+        request = new XMLHttpRequest();
+        // buka file php dengan method POST
+        request.open("POST", "tes_json.php", true);
+        // set header yg di request
+        request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        // kirim request dengan parameter
+        request.send("param=" + paramJson);
+
+        // saat request terjadi perubahan
+        request.onreadystatechange = function () {
+            // jika sukses dan status ok
+            if (this.readyState == 4 && this.status == 200) {
+                // taruh teks json di variabel response
+                response = JSON.parse(this.responseText);
+                
+                // looping data untuk mengambil semua data di response
+                for (row in response) {
+                    output += response[row].nama + " | " + response[row].bidang + "<br>";
+                }
+
+                // tampilkan data yg diambil di #demo
+                document.getElementById("demo").innerHTML = output;
+            }
+        };        
+    </script>
+
+</body>
+</html>
